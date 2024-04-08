@@ -14,7 +14,7 @@ pip install elasticsearch==7.9.0
 
 # 3.	Set up Apache Spark:
 
-# Assuming Spark is installed at /opt/manual/spark findspark.init("/opt/manual/spark") 
+#Assuming Spark is installed at /opt/manual/spark findspark.init("/opt/manual/spark") 
 
 # 4.	Ensure Elasticsearch is running on your local machine.
 
